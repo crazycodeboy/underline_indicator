@@ -1,11 +1,11 @@
 name: underline_indicator
 description: A underline indicator
-version: 0.0.2
+version: 0.0.3
 author: CrazyCodeBoy <crazycodeboy@gmail.com>
 homepage: https://github.com/crazycodeboy/underline_indicator
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
   flutter:
