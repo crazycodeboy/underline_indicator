@@ -1,7 +1,6 @@
 name: underline_indicator
 description: A underline indicator
-version: 0.0.3
-author: CrazyCodeBoy <crazycodeboy@gmail.com>
+version: 0.0.4
 homepage: https://github.com/crazycodeboy/underline_indicator
 
 environment:
